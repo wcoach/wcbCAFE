@@ -355,7 +355,7 @@ footer p{
     }
     /* contact */
     #content .page-title{
-        margin-top: 40ps
+        margin-top: 40px;
     }
     /* フォーム */
     input[type="text"]
