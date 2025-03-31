@@ -219,8 +219,8 @@ label{
     margin-bottom: 10px;
     display: block;
 }
-input[type="text"]
-input[type="email"]
+input[type="text"],
+input[type="email"],
 textarea{
     background: rgba(225, 225, 255, .5);
     border: 1px #fff solid;
